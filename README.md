@@ -1,13 +1,19 @@
 READ Me
 
+- Swift Package Manager
+  - XCode -> File -> Add Package Dependencies
+  - Enter this url to add package : https://github.com/snapplay-io/ios_offerwall_sdk
+ 
+- CocoaPod
+-   
 1. make Podfile
 
 ```
 platform :ios, '16.0'
-use_frameworks!  # XCFramework일 경우
+use_frameworks!
 
 target 'YourApp' do
-  pod 's2offerwall', '~> 1.0.6'
+  pod 's2offerwall', '~> 1.0.7'
 end
 ```
 
