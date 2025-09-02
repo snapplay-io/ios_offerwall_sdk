@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "s2offerwall",
-            url: "https://raw.githubusercontent.com/snapplay-io/ios_offerwall_sdk/main/sdk/s2offerwall.xcframework_v1.0.7.zip",
-            checksum: "7494b035a040910d249b89311e5ff022893dff2ab85eb74a3111cda577bd9692"
+            url: "https://raw.githubusercontent.com/snapplay-io/ios_offerwall_sdk/main/sdk/s2offerwall.xcframework_v1.0.8.zip",
+            checksum: "355ac4321727ee3472170526cde9f91e07bbe6561df2755152133e0b01abaf52"
         )
     ]
 )
