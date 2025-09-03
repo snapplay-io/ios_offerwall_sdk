@@ -1,3 +1,5 @@
+[Developer's guide](https://snapplay.gitbook.io/docs)
+
 READ Me
 
 - Swift Package Manager
