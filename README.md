@@ -15,7 +15,7 @@ platform :ios, '16.0'
 use_frameworks!
 
 target 'YourApp' do
-  pod 's2offerwall', '~> 1.0.11'
+  pod 's2offerwall', '~> 1.0.12'
 end
 ```
 
