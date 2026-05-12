@@ -1,5 +1,15 @@
 ## 2026
 
+### v 1.0.29
+* Privacy manifest 파일 추가
+  
+### v 1.0.28
+* S2Offerwall.getAppId() 추가
+* S2Offerwall.requestMaxPointData() 추가 (데이터 API)
+  
+### v 1.0.26
+* S2Offerwall.backgroundColor 설정 추가
+  
 ### v 1.0.25 (01/16)
 * 구글 광고 스트립트 변경에 대응
 
